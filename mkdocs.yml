@@ -4,6 +4,18 @@ site_name: Grupo 09
 theme:
   name: material
   language: pt
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+  toggle:
+    icon: material/weather-night
+    name: Alternar modo claro/escuro
 
 
 nav:
