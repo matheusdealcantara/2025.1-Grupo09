@@ -23,3 +23,5 @@ nav:
   - Atas:
       - 28/03/2025: atas/ata_28_03.md
       - 04/04/2025: atas/ata_04_04.md
+  - Planejamento:
+      - Ferramentas: planejamento/ferramentas.md 
