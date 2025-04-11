@@ -25,6 +25,7 @@ nav:
       - 04/04/2025: atas/ata_04_04.md
   - Planejamento:
       - Ferramentas: planejamento/ferramentas.md 
+      - Cronograma: planejamento/Cronograma.md
 
 
 extra_css:
