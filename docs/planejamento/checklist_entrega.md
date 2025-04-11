@@ -55,3 +55,9 @@ Documento baseado nos critérios do Plano de Ensino da disciplina e na lista de 
 | Cada integrante elaborou ao menos 1 conteúdo com referência e imagem da fonte                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
 
 ---
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição            | Autor(es)                                                                                           | Revisor(es)                                      |
+| ------ | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| `1.0`  | 09/04/2025 | Criação do documento | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) |
