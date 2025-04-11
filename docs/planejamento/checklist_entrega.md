@@ -52,9 +52,21 @@ Documento baseado nos critérios do Plano de Ensino da disciplina e na lista de 
 |-------------------------------------------------------------------------------------------------------|----------|----------|----------------------|
 | Rich Picture com legenda explicando os símbolos                                                       | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
 | Rich Picture com os 5 componentes obrigatórios                                                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
+| Verificar se todos os atores relevantes do sistema estão representados graficamente como bonecos-palito, com rótulos descritivos                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
+| Certificar-se de que todas as operações principais do sistema estão representadas como círculos ou elipses com rótulos apropriados                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
+| Confirmar a presença de repositórios de dados relevantes, indicados como retângulos, com seus respectivos tipos de dados                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
+| Verificar se o fluxo de dados/informações está representado por setas unidirecionais com rótulos explicativos                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
+| Verificar se existe um contorno (linha contínua ou tracejada) delimitando claramente o que está sob responsabilidade do sistema                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
+| Checar se grupos de usuários similares são representados por um único ator, conforme apropriado                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
+| Confirmar se o limite do sistema foi adicionado por último, conforme boa prática recomendada                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
 | Cada integrante elaborou ao menos 1 conteúdo com referência e imagem da fonte                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | ☐ Concluído / ☐ Pendente |
 
+
 ---
+
+## Referências
+- SALES, André Barros de. [Plano de Ensino – Requisitos de Software: REE012025 – Turma 03](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf). Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. 7 p. Acessado em: 09 de abril de 2025
+- Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf. Acessado em: 09 de abril de 2025
 
 ## Histórico de Versões
 
