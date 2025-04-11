@@ -13,11 +13,12 @@ Esta página tem como objetivo documentar todas as ferramentas utilizadas pela e
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/120px-WhatsApp.svg.png" alt="Logo do WhatsApp" width="100px"> | WhatsApp<sup>[3](#ref3)</sup> | Canal de comunicação geral da equipe |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/120px-Figma-logo.svg.png" alt="Logo do Figma" width="70px"> | Figma<sup>[4](#ref4)</sup> | Criação de protótipos |
 | <img src="../assets/img/excalidraw.png" alt="Logo do Excalidraw" width="100px"> | Excalidraw<sup>[5](#ref5)</sup> | Produção de diagramas |
+| <img src="../assets/img/lucidchart.png" alt="Logo do Lucidchart" width="100px"> | Lucidchart<sup>[11](#ref11)</sup> | Criação de diagramas e fluxogramas |
 | <img src="../assets/img/mkdocs.png" alt="Logo do MkDocs" width="250px"> | MkDocs<sup>[6](#ref6)</sup> | Renderização da documentação |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/120px-Visual_Studio_Code_1.35_icon.svg.png" alt="Logo do Visual Studio Code" width="85px"> | Visual Studio Code<sup>[7](#ref7)</sup> | Edição da documentação |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/120px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="Logo do Google Planilhas" width="80px"> | Google Planilhas<sup>[8](#ref8)</sup> | Criação de planilhas de cronogramas e heatmaps |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/120px-Google_Docs_logo_%282014-2020%29.svg.png" alt="Logo do Google Docs" width="80px"> | Google Docs<sup>[9](#ref9)</sup> | Criação de arquivos de texto para checklists, cronogramas, etc |
-| <img src="assets/img/thispersondoesntexist.png" alt="Logo do This Person Doesn't Exist" width="100px"> | This Person Doesn't Exist<sup>[10](#ref10)</sup> | Criação de personas |
+| <img src="../assets/img/thispersondoesntexist.png" alt="Logo do This Person Doesn't Exist" width="100px"> | This Person Doesn't Exist<sup>[10](#ref10)</sup> | Criação de personas |
 
 
 ## Referências
