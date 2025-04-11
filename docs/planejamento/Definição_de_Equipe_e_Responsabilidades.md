@@ -69,4 +69,4 @@ Para a escolha do **Scrum Master** e do **Product Owner (PO)**, foi utilizado um
 
 | Versão | Data       | Descrição            | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 09/04/2025 | Criação do documento | [Lucas Alves](https://github.com/LucasAlves71)                                                        |                                                  |
+| `1.0`  | 09/04/2025 | Criação do documento | [Lucas Alves](https://github.com/LucasAlves71) | [Yzabella Miranda](https://github.com/redjsun) |
