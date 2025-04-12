@@ -17,9 +17,19 @@ Visando esclarecer a questão e garantir a regularidade do trabalho, o grupo opt
 
 Dada a falta de Termos de Uso acessíveis, a ausência de permissões explícitas na Política de Privacidade e a não resposta do suporte, o grupo decidiu adotar uma postura conservadora. Resolvemos restringir o escopo do projeto à elicitação e análise de requisitos ainda não implementados no Sinesp, evitando qualquer abordagem que pudesse implicar engenharia reversa ou acesso direto à estrutura interna do aplicativo. Essa decisão reforça nosso compromisso com a conduta ética e legal, priorizando o respeito às políticas do Sinesp e aos princípios acadêmicos.
 
+## Rich Picture
+O RichPicture é uma técnica visual colaborativa utilizada para explorar e comunicar complexidades de sistemas, traduzindo conceitos abstratos em uma representação gráfica acessível. Sua abordagem informal e flexível permite uma compreensão holística do sistema, facilitando a identificação de gargalos, requisitos e oportunidades de melhoria, sem se prender a formalismos excessivos.
+
+### Ferramentas
+O [Lucidchart](https://www.lucidchart.com/pages/pt) foi utilizado para a criação do rich picture que pode ser visualizado na figura 1.
+
+![Richpicturev1](assets/richpicture/richPicture.png)
+Figura 1: Rich Picture versão 1
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 10/04/2024 | Criação da página de aplicativo escolhido | [Yzabella Miranda](https://github.com/redjsun) | [Ana Luiza](https://github.com/Ana-Luiza-SC)| 
-| 1.1 | 10/04/2024 | Adição do termos de Uso | [Othavio Araujo Bolzan]((https://github.com/bolzanMGB))  | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
+| 1.0 | 10/04/2025 | Criação da página de aplicativo escolhido | [Yzabella Miranda](https://github.com/redjsun) | [Ana Luiza](https://github.com/Ana-Luiza-SC)| 
+| 1.1 | 10/04/2025 | Adição do termos de Uso | [Othavio Araujo Bolzan]((https://github.com/bolzanMGB))  | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
+| 1.2 | 12/04/2024 | Adição do rich picture | [Yzabella Miranda](https://github.com/redjsun) | [Ana Luiza](https://github.com/Ana-Luiza-SC)| 
