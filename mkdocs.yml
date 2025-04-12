@@ -31,7 +31,9 @@ nav:
       - Cronograma: planejamento/Cronograma.md
       - Aplicativo: planejamento/aplicativo.md
   - Verificação:
-      - Verificação Entrega 1: planejamento/checklist_entrega.md
+      - Grupo:
+          - Entrega 1: planejamento/checklist_entrega.md
+      - Grupo + 1:
 
 
 extra_css:
