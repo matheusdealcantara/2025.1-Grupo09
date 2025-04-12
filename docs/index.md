@@ -28,8 +28,6 @@ O Sinesp Cidadão é uma plataforma governamental desenvolvida para democratizar
       <img src="https://avatars.githubusercontent.com/u/149620306?v=4" width=100><br>
       <b><a href="https://github.com/bolzanMGB">Othavio Bolzan</a></b><br>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/163928510?v=4" width=100><br>
       <b><a href="https://github.com/kalebmacedo">Kaleb de Souza</a></b><br>
@@ -42,8 +40,6 @@ O Sinesp Cidadão é uma plataforma governamental desenvolvida para democratizar
       <img src="https://avatars.githubusercontent.com/u/107211702?v=4" width=100><br>
       <b><a href="https://github.com/matheusdealcantara">Matheus de Alcântara</a></b><br>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/100642769?v=4" width=100><br>
       <b><a href="https://github.com/redjsun">Yzabella Miranda</a></b><br>
