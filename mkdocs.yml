@@ -27,9 +27,12 @@ nav:
   - Videos:
       - videos: videos/videos.md
   - Planejamento:
+      - Responsabilidades da equipe: planejamento/Definição_de_Equipe_e_Responsabilidades.md
       - Ferramentas: planejamento/ferramentas.md 
-      - Cronograma: planejamento/Cronograma.md
+      - Cronograma planejado: planejamento/Cronograma.md
+      - Cronograma executado: planejamento/Cronograma_execudato.md
       - Aplicativo: planejamento/aplicativo.md
+
   - Verificação:
       - Grupo:
           - Entrega 1: planejamento/checklist_entrega.md
