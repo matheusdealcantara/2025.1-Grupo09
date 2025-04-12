@@ -30,6 +30,8 @@ nav:
       - Ferramentas: planejamento/ferramentas.md 
       - Cronograma: planejamento/Cronograma.md
       - Aplicativo: planejamento/aplicativo.md
+  - Verificação:
+      - Verificação Entrega 1: planejamento/checklist_entrega.md
 
 
 extra_css:
