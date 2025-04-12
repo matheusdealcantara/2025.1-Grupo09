@@ -11,7 +11,7 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 | Entrega | Descrição | Data Limite |
 |--------|-----------|--------------|
 | Entrega 1 | Planejamento do Projeto (definição da equipe, ferramentas, escopo e cronograma detalhado) | 13/04 |
-| Entrega 2 | Levantamento e Análise de Requisitos (perfil dos usuários, elicitação e priorização dos requisitos) | 27/04 |
+| Entrega 2 | Elicitação e Análise de Requisitos (perfil dos usuários, elicitação e priorização dos requisitos) | 27/04 |
 | Entrega 3 | Modelagem de Requisitos (casos de uso, cenários, histórias de usuário, backlog) | 13/05 |
 | Entrega 4 | Desenvolvimento Inicial (prototipação, definição da arquitetura e primeiras implementações) | 27/05 |
 | Entrega 5 | Implementação e Testes (avaliação dos primeiros módulos, refinamento dos requisitos e ajustes necessários) | 25/06 |
@@ -36,7 +36,7 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 
 ---
 
-## Cronograma da Entrega 2 – Levantamento e Análise de Requisitos
+## Cronograma da Entrega 2 – Elicitação e Análise de Requisitos
 
 *(Perfil dos usuários, elicitação e priorização dos requisitos)*
 
