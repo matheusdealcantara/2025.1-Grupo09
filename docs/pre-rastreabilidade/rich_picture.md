@@ -12,15 +12,31 @@ A elaboração do *Rich Picture* foi realizada por meio da ferramenta **Figma**,
 
 Abaixo estão os espaços reservados para inserção do *Rich Picture* e de sua legenda:
 
-- **Figura 1 – Rich Picture do Sinesp Cidadão**  
-  _[Inserir imagem do Rich Picture aqui]_  
-  Fonte: Autores.
+<br>
+<p align="center">
+  <font><b>Figura 1: Rich Picture do Sinesp Cidadão</b></font>
+</p>
+<p align="center">
+  <img src="../planejamento/assets/rich-picture/richPicture.png" alt="Rich Picture do Sinesp Cidadão">
+</p>
+<p align="center">
+  <font>Fonte: Autoria do grupo.</font>
+</p>
 
-- **Figura 2 – Legenda do Rich Picture**  
-  _[Inserir imagem da legenda aqui]_  
-  Fonte: Autores.
+<br>
+<p align="center">
+  <font><b>Figura 2: Legenda do Rich Picture</b></font>
+</p>
+<p align="center">
+  <img src="../planejamento/assets/legenda-richPicture/legenda-richPicture.png" alt="Legenda do Rich Picture">
+</p>
+<p align="center">
+  <font>Fonte: Autoria do grupo.</font>
+</p>
 
 ## Referência
+
+BRASIL. *Sinesp Cidadão*. [2025]. Disponível em: https://www.gov.br/pt-br/apps/sinesp-cidadao. Acesso em: 12 abr. 2025.
 
 CTEC2402 Software Development Project. *Introducing Rich Pictures*. 2023.
 

@@ -23,8 +23,21 @@ O RichPicture é uma técnica visual colaborativa utilizada para explorar e comu
 ### Ferramentas
 O [Lucidchart](https://www.lucidchart.com/pages/pt) foi utilizado para a criação do rich picture que pode ser visualizado na figura 1.
 
-![Richpicturev1](assets/rich-picture/richPicture.png)
-Figura 1: Rich Picture versão 1
+<br>
+<p align="center">
+  <font><b>Figura 1: Rich Picture do Sinesp Cidadão</b></font>
+</p>
+<p align="center">
+  <img src="../planejamento/assets/rich-picture/richPicture.png" alt="Rich Picture do Sinesp Cidadão">
+</p>
+
+<br>
+<p align="center">
+  <font><b>Figura 2: Legenda do Rich Picture</b></font>
+</p>
+<p align="center">
+  <img src="../planejamento/assets/legenda-richPicture/legenda-richPicture.png" alt="Legenda do Rich Picture">
+</p>
 
 ## Histórico de Versões
 
