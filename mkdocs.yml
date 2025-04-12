@@ -29,6 +29,7 @@ nav:
   - Planejamento:
       - Ferramentas: planejamento/ferramentas.md 
       - Cronograma: planejamento/Cronograma.md
+      - Aplicativo: planejamento/aplicativo.md
 
 
 extra_css:
