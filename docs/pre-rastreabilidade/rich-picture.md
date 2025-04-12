@@ -8,7 +8,7 @@ O [Figma](https://www.figma.com/) foi utilizado para a criação do rich picture
 ![Richpicturev1](../assets/rich-picture/richpicuturev1.png)
 Figura 1: Rich Picture versão 1
 
-![RichpictureLegenda](../assets/rich-picture/richpicuturev1.png)
+![RichpictureLegenda](../assets/rich-picture/richpicuturelegenda.png)
 
 ## Histórico de Versões
 
