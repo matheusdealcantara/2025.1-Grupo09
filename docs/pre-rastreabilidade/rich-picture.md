@@ -5,10 +5,10 @@ O RichPicture é uma técnica visual colaborativa utilizada para explorar e comu
 ### Ferramentas
 O [Figma](https://www.figma.com/) foi utilizado para a criação do rich picture, junto das ferramentas de criação de arte, como [Storyset](https://storyset.com/) e [unDraw](https://undraw.co/) que pode ser visualizado na figura 1 e figura 2.
 
-![Richpicturev1](assets/rich-picture/richpicturev1.png)
+![Richpicturev1](../assets/rich-picture/richpicuturev1.png)
 Figura 1: Rich Picture versão 1
 
-![RichpictureLegenda](assets/rich-picture/richpicturelegenda.png)
+![RichpictureLegenda](../assets/rich-picture/richpicuturev1.png)
 
 ## Histórico de Versões
 
