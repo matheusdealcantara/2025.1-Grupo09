@@ -17,6 +17,28 @@ Visando esclarecer a questão e garantir a regularidade do trabalho, o grupo opt
 
 Dada a falta de Termos de Uso acessíveis, a ausência de permissões explícitas na Política de Privacidade e a não resposta do suporte, o grupo decidiu adotar uma postura conservadora. Resolvemos restringir o escopo do projeto à elicitação e análise de requisitos ainda não implementados no Sinesp, evitando qualquer abordagem que pudesse implicar engenharia reversa ou acesso direto à estrutura interna do aplicativo. Essa decisão reforça nosso compromisso com a conduta ética e legal, priorizando o respeito às políticas do Sinesp e aos princípios acadêmicos.
 
+## Rich Picture
+O RichPicture é uma técnica visual colaborativa utilizada para explorar e comunicar complexidades de sistemas, traduzindo conceitos abstratos em uma representação gráfica acessível. Sua abordagem informal e flexível permite uma compreensão holística do sistema, facilitando a identificação de gargalos, requisitos e oportunidades de melhoria, sem se prender a formalismos excessivos.
+
+### Ferramentas
+O [Lucidchart](https://www.lucidchart.com/pages/pt) foi utilizado para a criação do rich picture que pode ser visualizado na figura 1.
+
+<br>
+<p align="center">
+  <font><b>Figura 1: Rich Picture do Sinesp Cidadão</b></font>
+</p>
+<p align="center">
+  <img src="../planejamento/assets/rich-picture/richPicture.png" alt="Rich Picture do Sinesp Cidadão">
+</p>
+
+<br>
+<p align="center">
+  <font><b>Figura 2: Legenda do Rich Picture</b></font>
+</p>
+<p align="center">
+  <img src="../planejamento/assets/legenda-richPicture/legenda-richPicture.png" alt="Legenda do Rich Picture">
+</p>
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
