@@ -18,6 +18,7 @@ Esta página tem como objetivo documentar todas as ferramentas utilizadas pela e
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/120px-Visual_Studio_Code_1.35_icon.svg.png" alt="Logo do Visual Studio Code" width="85px"> | Visual Studio Code<sup>[7](#ref7)</sup> | Edição da documentação |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/120px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="Logo do Google Planilhas" width="80px"> | Google Planilhas<sup>[8](#ref8)</sup> | Criação de planilhas de cronogramas e heatmaps |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/120px-Google_Docs_logo_%282014-2020%29.svg.png" alt="Logo do Google Docs" width="80px"> | Google Docs<sup>[9](#ref9)</sup> | Criação de arquivos de texto para checklists, cronogramas, etc |
+| <img src="../assets/img/monday.png" alt="Logo do Monday" width="100px"> | Monday<sup>[11](#ref11)</sup> | Gerenciamento de projetos e acompanhamento de tarefas |
 | <img src="../assets/img/thispersondoesntexist.png" alt="Logo do This Person Doesn't Exist" width="100px"> | This Person Doesn't Exist<sup>[10](#ref10)</sup> | Criação de personas |
 
 
@@ -43,8 +44,12 @@ Esta página tem como objetivo documentar todas as ferramentas utilizadas pela e
 
 <a id="ref10"></a>[10] THIS PERSON DOESN'T EXIST. Disponível em: <https://thispersondoesnotexist.com/>. Acesso em: 09 de abril de 2024.
 
+<a id="ref11"></a>[11] MONDAY. Disponível em: <https://monday.com/>. Acesso em: 10 de abril de 2024.
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 09/04/2024 | Criação da página de ferramentas | Matheus de Alcântara | Kaleb Macedo |
+| 1.0.1 | 10/04/2024 | Adição de novas ferramentas e correção das imagens | Matheus de Alcântara | Kaleb Macedo
+| 1.0.2 | 12/04/2024 | Adição de novas ferramentas e correção das imagens | Matheus de Alcântara | Kaleb Macedo

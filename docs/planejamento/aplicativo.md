@@ -44,5 +44,4 @@ O [Lucidchart](https://www.lucidchart.com/pages/pt) foi utilizado para a criaç�
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 10/04/2025 | Criação da página de aplicativo escolhido | [Yzabella Miranda](https://github.com/redjsun) | [Ana Luiza](https://github.com/Ana-Luiza-SC)| 
-| 1.1 | 10/04/2025 | Adição do termos de Uso | [Othavio Araujo Bolzan]((https://github.com/bolzanMGB))  | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
-| 1.2 | 12/04/2024 | Adição do rich picture | [Yzabella Miranda](https://github.com/redjsun) | [Ana Luiza](https://github.com/Ana-Luiza-SC)| 
+| 1.1 | 10/04/2025 | Adição do termos de Uso | [Othavio Araujo Bolzan]((https://github.com/bolzanMGB))  | [Ana Luiza](https://github.com/Ana-Luiza-SC) | 
