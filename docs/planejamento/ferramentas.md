@@ -50,6 +50,6 @@ Esta página tem como objetivo documentar todas as ferramentas utilizadas pela e
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 09/04/2024 | Criação da página de ferramentas | Matheus de Alcântara | Kaleb Macedo |
-| 1.0.1 | 10/04/2024 | Adição de novas ferramentas e correção das imagens | Matheus de Alcântara | Kaleb Macedo
-| 1.0.2 | 12/04/2024 | Adição de novas ferramentas e correção das imagens | Matheus de Alcântara | Kaleb Macedo
+| 1.0 | 09/04/2024 | Criação da página de ferramentas | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Kaleb de Souza](https://github.com/kalebmacedo) | 
+| 1.0.1 | 10/04/2024 | Adição de novas ferramentas e correção das imagens | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Kaleb de Souza](https://github.com/kalebmacedo) |
+| 1.0.2 | 12/04/2024 | Adição de novas ferramentas e correção das imagens | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Kaleb de Souza](https://github.com/kalebmacedo) |

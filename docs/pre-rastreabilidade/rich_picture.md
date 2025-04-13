@@ -13,12 +13,12 @@ A elaboração do *Rich Picture* foi realizada por meio da ferramenta **Figma**,
 Abaixo estão os espaços reservados para inserção do *Rich Picture* e de sua legenda:
 
 <p align="center">
-  <img src="../planejamento/assets/rich-picture/richPicture.png" alt="Rich Picture do Sinesp Cidadão" width="600"/>
+  <img src="../assets/rich-picture/richPicture.png" alt="Rich Picture do Sinesp Cidadão" width="600"/>
 </p>
 <p align="center"><strong>Figura 1: Rich Picture do Sinesp Cidadão</strong><br><em>Fonte: Autoria do grupo.</em></p>
 
 <p align="center">
-  <img src="../planejamento/assets/legenda-richPicture/legenda-richPicture.png" alt="Legenda do Rich Picture" width="400"/>
+  <img src="../assets/legenda-richPicture/legenda-richPicture.png" alt="Legenda do Rich Picture" width="400"/>
 </p>
 <p align="center"><strong>Figura 2: Legenda do Rich Picture</strong><br><em>Fonte: Autoria do grupo.</em></p>
 
