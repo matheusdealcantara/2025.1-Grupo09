@@ -12,27 +12,13 @@ A elaboração do *Rich Picture* foi realizada por meio da ferramenta **Figma**,
 
 Abaixo estão os espaços reservados para inserção do *Rich Picture* e de sua legenda:
 
-<br>
-<p align="center">
-  <font><b>Figura 1: Rich Picture do Sinesp Cidadão</b></font>
-</p>
-<p align="center">
-  <img src="../planejamento/assets/rich-picture/richPicture.png" alt="Rich Picture do Sinesp Cidadão">
-</p>
-<p align="center">
-  <font>Fonte: Autoria do grupo.</font>
-</p>
+![Rich Picture do Sinesp Cidadão](../planejamento/assets/rich-picture/richPicture.png)
+**Figura 1: Rich Picture do Sinesp Cidadão**  
+*Fonte: Autoria do grupo.*
 
-<br>
-<p align="center">
-  <font><b>Figura 2: Legenda do Rich Picture</b></font>
-</p>
-<p align="center">
-  <img src="../planejamento/assets/legenda-richPicture/legenda-richPicture.png" alt="Legenda do Rich Picture">
-</p>
-<p align="center">
-  <font>Fonte: Autoria do grupo.</font>
-</p>
+![Legenda do Rich Picture](../planejamento/assets/legenda-richPicture/legenda-richPicture.png)
+**Figura 2: Legenda do Rich Picture**  
+*Fonte: Autoria do grupo.*
 
 ## Referência
 
@@ -45,5 +31,6 @@ SERRANO, Maurício; SERRANO, Milene. *Requisitos - Aula 4*. Aprender 3. Distrito
 
 | Versão | Data       | Descrição                              | Autor(a)         | Revisor(a)   |
 |--------|------------|-----------------------------------------|------------------|--------------|
-| 1.0    | 12/04/2025 | Adição da primeira versão do Rich Picture | Ana Luiza Soares | Kaleb Macedo |
+| 1.0    | 12/04/2025 | Adição da primeira versão do Rich Picture | [Ana Luiza](https://github.com/Ana-Luiza-SC) | [Kaleb Macedo](https://github.com/kalebmacedo) |
+| 1.1    | 13/04/2025 | Alteração na formatação da foto        | [Ana Luiza](https://github.com/Ana-Luiza-SC) | [Kaleb Macedo](https://github.com/kalebmacedo) |
 

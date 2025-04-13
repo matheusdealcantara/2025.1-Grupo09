@@ -23,25 +23,18 @@ O RichPicture é uma técnica visual colaborativa utilizada para explorar e comu
 ### Ferramentas
 O [Lucidchart](https://www.lucidchart.com/pages/pt) foi utilizado para a criação do rich picture que pode ser visualizado na figura 1.
 
-<br>
-<p align="center">
-  <font><b>Figura 1: Rich Picture do Sinesp Cidadão</b></font>
-</p>
-<p align="center">
-  <img src="../planejamento/assets/rich-picture/richPicture.png" alt="Rich Picture do Sinesp Cidadão">
-</p>
+![Rich Picture do Sinesp Cidadão](../planejamento/assets/rich-picture/richPicture.png)
+**Figura 1: Rich Picture do Sinesp Cidadão**  
+*Fonte: Autoria do grupo.*
 
-<br>
-<p align="center">
-  <font><b>Figura 2: Legenda do Rich Picture</b></font>
-</p>
-<p align="center">
-  <img src="../planejamento/assets/legenda-richPicture/legenda-richPicture.png" alt="Legenda do Rich Picture">
-</p>
+![Legenda do Rich Picture](../planejamento/assets/legenda-richPicture/legenda-richPicture.png)
+**Figura 2: Legenda do Rich Picture**  
+*Fonte: Autoria do grupo.*
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 10/04/2025 | Criação da página de aplicativo escolhido | [Yzabella Miranda](https://github.com/redjsun) | [Ana Luiza](https://github.com/Ana-Luiza-SC)| 
-| 1.1 | 10/04/2025 | Adição do termos de Uso | [Othavio Araujo Bolzan]((https://github.com/bolzanMGB))  | [Ana Luiza](https://github.com/Ana-Luiza-SC) | 
+| 1.1 | 10/04/2025 | Adição do termos de Uso | [Othavio Araujo Bolzan]((https://github.com/bolzanMGB))  | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
+| 1.2    | 13/04/2025 | Alteração na formatação da foto        | [Ana Luiza](https://github.com/Ana-Luiza-SC) | [Isaque Camargos](https://github.com/isaqzin) |
