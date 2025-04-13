@@ -20,7 +20,7 @@ Os vídeos estão armazenados como **não listados no YouTube** e podem ser disp
 ---
 
 ### Reunião 02 – Escolha do aplicativo, Rich Picture e gravação  
-<iframe width="560" height="315" src="https://youtu.be/Kkw9zPlEb4M" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/Kkw9zPlEb4M" frameborder="0" allowfullscreen></iframe>
 
 ---
 
