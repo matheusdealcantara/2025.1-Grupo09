@@ -1,4 +1,4 @@
-# Cronograma do Projeto
+# Cronograma Planejado do Projeto
 
 ## Introdução
 
@@ -11,7 +11,7 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 | Entrega | Descrição | Data Limite |
 |--------|-----------|--------------|
 | Entrega 1 | Planejamento do Projeto (definição da equipe, ferramentas, escopo e cronograma detalhado) | 13/04 |
-| Entrega 2 | Levantamento e Análise de Requisitos (perfil dos usuários, elicitação e priorização dos requisitos) | 27/04 |
+| Entrega 2 | Elicitação e Análise de Requisitos (perfil dos usuários, elicitação e priorização dos requisitos) | 27/04 |
 | Entrega 3 | Modelagem de Requisitos (casos de uso, cenários, histórias de usuário, backlog) | 13/05 |
 | Entrega 4 | Desenvolvimento Inicial (prototipação, definição da arquitetura e primeiras implementações) | 27/05 |
 | Entrega 5 | Implementação e Testes (avaliação dos primeiros módulos, refinamento dos requisitos e ajustes necessários) | 25/06 |
@@ -30,13 +30,14 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 | Seleção de ferramentas e tecnologias | Matheus de Alcântara | Kaleb Macedo | 04/04 | 12/04 | 12/04 - 13/04 |
 | Estruturação do repositório e documentação inicial | Kaleb Macedo, Isaque Camargos | Lucas Alves | 04/04 | 12/04 | 12/04 - 13/04 |
 | Definição do escopo e objetivos | Yzabella Miranda, Othavio Bolzan | Ana Luiza Soares | 04/04 | 12/04 | 12/04 - 13/04 |
-| Elaboração do cronograma detalhado | Ana Luiza Soares | Matheus de Alcântara | 04/04 | 12/04 | 12/04 - 13/04 |
+| Elaboração do cronograma planejado detalhado | Ana Luiza Soares | Matheus de Alcântara | 04/04 | 12/04 | 12/04 - 13/04 |
+| Elaboração do cronograma executado detalhado | Ana Luiza Soares e Isaque Camargos | Matheus de Alcântara | 04/04 | 12/04 | 12/04 - 13/04 |
 | Rich Picture do projeto | Isaque Camargos, Othavio, Ana Luiza | Kaleb Macedo | 04/04 | 12/04 | 12/04 - 13/04 |
 | Checklist da entrega | Lucas Alves | Isaque Camargos | 04/04 | 12/04 | 12/04 - 13/04 |
 
 ---
 
-## Cronograma da Entrega 2 – Levantamento e Análise de Requisitos
+## Cronograma da Entrega 2 – Elicitação e Análise de Requisitos
 
 *(Perfil dos usuários, elicitação e priorização dos requisitos)*
 
@@ -129,4 +130,5 @@ SALES, André Barros de. *Ambientação - Aula 1, Exemplo de Cronograma*. Aprend
 
 | Versão | Data       | Descrição                    | Autor(es)        | Revisor(es)         |
 |--------|------------|------------------------------|------------------|---------------------|
-| 1.0    | 10/04/2025 | Criação do Cronograma Planejado | Ana Luiza Soares | Matheus de Alcântara |
+| 1.0    | 10/04/2025 | Criação do Cronograma Planejado | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| 1.1    | 12/04/2025 | Adição da tarefa "cronograma executado" | [Isaque Camargos](https://github.com/isaqzin) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
