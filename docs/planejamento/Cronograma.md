@@ -48,7 +48,7 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 | Aplicação das técnicas de elicitação| Matheus de Alcântara, Isaque Camargos | Kaleb Macedo       | 14/04   | 23/04   | 24/04 - 25/04         |
 | Priorização dos requisitos          | Othavio Bolzan, Yzabella Miranda   | Ana Luiza Soares       | 14/04   | 23/04   | 24/04 - 25/04         |
 | Checklist da entrega                | Yzabella Miranda                   | Matheus de Alcântara   | 14/04   | 23/04   | 24/04 - 25/04         |
-| Gravação da apresentação            | Othavio Bolzan, Lucas Alves        | Matheus de Alcântara   | 14/04   | 26/04   | 24/04 - 25/04         |
+| Gravação da apresentação            | Othavio Bolzan, Lucas Alves        | Matheus de Alcântara   | 26/04   | 26/04   | 26/04 - 27/04         |
 
 ---
 
@@ -62,8 +62,7 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 | Elaboração de Cenários          | Isaque Camargos, Yzabella Miranda          | Lucas Alves          | 28/04   | 09/05   | 10/05 - 11/05         |
 | Desenvolvimento do Backlog      | Kaleb Macedo, Othavio Bolzan               | Ana Luiza Soares     | 28/04   | 09/05   | 10/05 - 11/05         |
 | Checklist da entrega            | Ana Luiza Soares                           | Kaleb Macedo         | 28/04   | 09/05   | 10/05 - 11/05         |
-| Gravação da apresentação        | Yzabella Miranda, Isaque Camargos          | Matheus de Alcântara | 28/04   | 12/05   | 10/05 - 11/05         |
-
+| Gravação da apresentação        | Yzabella Miranda, Isaque Camargos          | Matheus de Alcântara | 12/05   | 12/05   | 12/05 - 13/05         |
 
 ---
 
@@ -77,7 +76,7 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 | Definição da arquitetura  | Isaque Camargos, Ana Luiza Soares, Lucas Alves | Kaleb Macedo        | 14/05   | 23/05   | 24/05 - 25/05         |
 | Implementação inicial     | Lucas Alves, Kaleb Macedo                      | Othavio Bolzan       | 14/05   | 23/05   | 24/05 - 25/05         |
 | Checklist da entrega      | Othavio Bolzan                                | Ana Luiza Soares     | 14/05   | 23/05   | 24/05 - 25/05         |
-| Gravação da apresentação  | Ana Luiza Soares, Isaque Camargos             | Yzabella Miranda     | 14/05   | 26/05   | 24/05 - 25/05         |
+| Gravação da apresentação  | Ana Luiza Soares, Isaque Camargos             | Yzabella Miranda     | 26/05   | 26/05   | 26/05 - 27/05         |
 
 
 ---
@@ -93,7 +92,7 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 | Testes preliminares 2               | Yzabella Miranda, Lucas Alves                | Yzabella Miranda     | 28/05   | 21/06   | 22/06 - 23/06         |
 | Checklist de validação dos requisitos | Matheus de Alcântara, Isaque Camargos       | Lucas Alves          | 28/05   | 21/06   | 22/06 - 23/06         |
 | Checklist da entrega                | Isaque Camargos                              | Othavio Bolzan       | 28/05   | 21/06   | 22/06 - 23/06         |
-| Gravação da apresentação            | Kaleb Macedo, Lucas Alves                    | Yzabella Miranda     | 28/05   | 24/06   | 22/06 - 23/06         |
+| Gravação da apresentação            | Kaleb Macedo, Lucas Alves                    | Yzabella Miranda     | 24/06   | 24/06   | 24/06 - 25/06         |
 
 
 ---
@@ -109,7 +108,7 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 | Testes finais                              | Kaleb Macedo, Isaque Camargos                 | Othavio Bolzan       | 26/05   | 06/06   | 07/06 - 08/06         |
 | Participação do cliente/persona na validação | Othavio Bolzan, Ana Luiza Soares             | Yzabella Miranda     | 26/05   | 06/06   | 07/06 - 08/06         |
 | Checklist da entrega                       | Matheus de Alcântara                          | Lucas Alves          | 26/05   | 06/06   | 07/06 - 08/06         |
-| Gravação da apresentação                   | Kaleb Macedo, Yzabella Miranda                | Matheus de Alcântara | 26/05   | 09/06   | 07/06 - 08/06         |
+| Gravação da apresentação                   | Kaleb Macedo, Yzabella Miranda                | Matheus de Alcântara | 09/06   | 09/06   | 09/06 - 10/06         |
 
 
 ---
@@ -123,7 +122,7 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 | Complementos e Revisões do Projeto Final | Todos os integrantes | Isaque Camargos, Yzabella Miranda | 11/06   | 03/07   | 04/07 - 05/07         |
 | Relatório de Revisões e Ajustes        | Todos os integrantes | Kaleb Macedo, Matheus de Alcântara | 11/06   | 03/07   | 04/07 - 05/07         |
 | Checklist da entrega                   | Yzabella Miranda     | Othavio Bolzan                    | 11/06   | 03/07   | 04/07 - 05/07         |
-| Gravação da Apresentação               | Todos os integrantes | Lucas Alves, Ana Luiza Soares     | 11/06   | 06/07   | 04/07 - 05/07         |
+| Gravação da Apresentação               | Todos os integrantes | Lucas Alves, Ana Luiza Soares     | 06/07   | 06/07   | 06/07 - 07/07         |
 
 
 ---
