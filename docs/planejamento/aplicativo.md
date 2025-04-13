@@ -21,10 +21,17 @@ Dada a falta de Termos de Uso acessíveis, a ausência de permissões explícita
 O RichPicture é uma técnica visual colaborativa utilizada para explorar e comunicar complexidades de sistemas, traduzindo conceitos abstratos em uma representação gráfica acessível. Sua abordagem informal e flexível permite uma compreensão holística do sistema, facilitando a identificação de gargalos, requisitos e oportunidades de melhoria, sem se prender a formalismos excessivos.
 
 ### Ferramentas
-O [Lucidchart](https://www.lucidchart.com/pages/pt) foi utilizado para a criação do rich picture que pode ser visualizado na figura 1.
+O [Figma](https://www.figma.com/community) foi utilizado para a criação do rich picture que pode ser visualizado na figura 1.
 
-![Richpicturev1](assets/rich-picture/richPicture.png)
-Figura 1: Rich Picture versão 1
+<p align="center">
+  <img src="../planejamento/assets/rich-picture/richPicture.png" alt="Rich Picture do Sinesp Cidadão" width="600"/>
+</p>
+<p align="center"><strong>Figura 1: Rich Picture do Sinesp Cidadão</strong><br><em>Fonte: Autoria do grupo.</em></p>
+
+<p align="center">
+  <img src="../planejamento/assets/legenda-richPicture/legenda-richPicture.png" alt="Legenda do Rich Picture" width="400"/>
+</p>
+<p align="center"><strong>Figura 2: Legenda do Rich Picture</strong><br><em>Fonte: Autoria do grupo.</em></p>
 
 ## Histórico de Versões
 
@@ -32,4 +39,4 @@ Figura 1: Rich Picture versão 1
 |--------|------|-----------|-----------|-------------|
 | 1.0 | 10/04/2025 | Criação da página de aplicativo escolhido | [Yzabella Miranda](https://github.com/redjsun) | [Ana Luiza](https://github.com/Ana-Luiza-SC)| 
 | 1.1 | 10/04/2025 | Adição do termos de Uso | [Othavio Araujo Bolzan]((https://github.com/bolzanMGB))  | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
-| 1.2 | 12/04/2024 | Adição do rich picture | [Yzabella Miranda](https://github.com/redjsun) | [Ana Luiza](https://github.com/Ana-Luiza-SC)| 
+| 1.2    | 13/04/2025 | Alteração na formatação da foto        | [Ana Luiza](https://github.com/Ana-Luiza-SC) | [Isaque Camargos](https://github.com/isaqzin) |
