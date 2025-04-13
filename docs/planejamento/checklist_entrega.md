@@ -61,7 +61,7 @@ Documento baseado nos critérios do Plano de Ensino da disciplina e na lista de 
 | Checar se grupos de usuários similares são representados por um único ator, conforme apropriado                         | [Othavio Bolzan](https://github.com/bolzanMGB) | [Isaque Camargos](https://github.com/isaqzin) | <input type="checkbox" checked> Concluído | Introducing Rich Pictures - Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project. 4 p. |
 | Cada integrante elaborou ao menos 1 conteúdo com referência e imagem da fonte                         | [Lucas Alves](https://github.com/LucasAlves71) | [Isaque Camargos](https://github.com/isaqzin) | <input type="checkbox" checked> Concluído | SALES, André Barros de. Plano de Ensino – Requisitos de Software: REE012025 – Turma 03. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. 7 p. Acessado em: 09 de abril de 2025 |
 
-<img src="../assets/img/fonteChecklist.png" alt="Legenda Checklist" width="1000px">
+<img src="../assets/img/fonteChecklist.PNG" alt="Legenda Checklist" width="1000px">
 <p align="center"><strong>Figura 1: Fonte da checklist</strong><br><em>Fonte: Introducing Rich Pictures - Rich Picture Drawing Guidelines. 4 p. Disponível em: https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf. Acessado em: 09 de abril de 2025</em></p>
 
 ---
