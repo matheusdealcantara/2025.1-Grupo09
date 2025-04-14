@@ -73,9 +73,15 @@ Segue o link referente ao repositório do grupo 10: https://github.com/Requisito
 - Introducing Rich Pictures - Rich Picture Drawing Guidelines. 4 p. Disponível em: https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf. Acessado em: 09 de abril de 2025
 
 
+## Gravação do Grupo +1 - Entreha 01
+
+### Grupo +1 Entrega 01  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JjRFmRJNH2E" frameborder="0" allowfullscreen></iframe>
+
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 09/04/2025 | Criação do documento | [Lucas Alves](https://github.com/LucasAlves71) | Todos |
+| `1.1`  | 14/04/2025 | Adição da Gravação   | [Kaleb Macedo](https://github.com/kalebmacedo) | Todos
