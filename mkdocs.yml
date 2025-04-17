@@ -27,6 +27,7 @@ nav:
   - Videos:
       - videos: videos/videos.md
   - Planejamento:
+      - Heatmap: planejamento/heatmap.md
       - Responsabilidades da equipe: planejamento/Definição_de_Equipe_e_Responsabilidades.md
       - Ferramentas: planejamento/ferramentas.md 
       - Cronograma planejado: planejamento/Cronograma.md
