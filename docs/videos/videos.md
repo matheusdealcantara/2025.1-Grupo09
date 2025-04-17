@@ -14,10 +14,29 @@ Os vídeos estão armazenados como **não listados no YouTube** e podem ser disp
 
 ## ✅ Reuniões com gravação disponível:
 
-### Reunião 02 – Escolha do aplicativo, Rich Picture e gravação  
+### Reunião 01 – Escolha do aplicativo, Rich Picture e gravação  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lB7ocgFzwnE" frameborder="0" allowfullscreen></iframe>
+
+---
+
+### Reunião 02 – Escolha do aplicativo, Rich Picture e gravação  
+<iframe width="560" height="315" src="https://youtube.com/embed/Kkw9zPlEb4M" frameborder="0" allowfullscreen></iframe>
 
 ---
 
 ### Reunião 03 – Organização para apresentação e estruturação final  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j282D-g8U4M" frameborder="0" allowfullscreen></iframe>
+
+
+## Gravações Grupos +1
+
+### Entrega 01  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JjRFmRJNH2E" frameborder="0" allowfullscreen></iframe>
+
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|--------|------|-----------|-----------|-------------|
+| 1.0 | 11/04/2024 | Criação da aba de Vídeos Gravados |  [Kaleb Macedo](https://github.com/kalebmacedo)  | Todos |
+| 1.1 | 14/04/2025 | Adição da Gravação do Grupo +1    |  [Kaleb Macedo](https://github.com/kalebmacedo)  | Todos |

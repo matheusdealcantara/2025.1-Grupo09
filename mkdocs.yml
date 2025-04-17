@@ -26,6 +26,8 @@ nav:
       - 11/04/2025: atas/ata_11_04.md
   - Videos:
       - videos: videos/videos.md
+  - Apresentação:
+      - entrega 1: apresentacao/apresentcao1.md
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
       - Responsabilidades da equipe: planejamento/Definição_de_Equipe_e_Responsabilidades.md
@@ -40,7 +42,8 @@ nav:
   - Verificação:
       - Grupo:
           - Entrega 1: planejamento/checklist_entrega.md
-
-
+      - Grupo +1:
+          - Entrega 1: planejamento/checklistGrupo+1.md
+          
 extra_css:
   - stylesheets/extra.css
