@@ -1,22 +1,30 @@
-# SINESP 
+# GDF Saúde
 
-Bem-vindo ao repositório do **Grupo 9** da disciplina de **Requisitos de Software** (2025.1 - FGA/UnB)! Este projeto tem como objetivo o levantamento, modelagem e análise dos requisitos do aplicativo **SINESP Cidadão**, propondo melhorias que elevem sua usabilidade, acessibilidade e eficácia para os cidadãos brasileiros.
+Bem-vindo ao repositório do **Grupo 9** da disciplina de **Requisitos de Software** (2025.1 - FGA/UnB)! Este projeto tem como objetivo o levantamento, modelagem e análise dos requisitos do aplicativo **GDF Saúde**, com foco na melhoria da sua usabilidade, acessibilidade e eficácia para os servidores públicos do Distrito Federal e seus dependentes.
 
-Acesse nossa documentação completa em: 
-[https://requisitos-de-software.github.io/2025.1-Sinesp/](https://requisitos-de-software.github.io/2025.1-Sinesp/)
+Acesse nossa documentação completa em:  
+[https://requisitos-de-software.github.io/2025.1-GDF-Saude/](https://requisitos-de-software.github.io/2025.1-GDF-Saude/)
 
 ---
 
 ## 📄 Sobre o Projeto
 
-O **SINESP Cidadão** é um aplicativo mantido pelo Ministério da Justiça e Segurança Pública, permitindo a consulta de informações sobre veículos, mandados de prisão e pessoas desaparecidas. Nosso trabalho busca compreender profundamente o funcionamento atual do app, a partir da elicitação com usuários reais e simulação de cenários, elaborando artefatos como:
+O **GDF Saúde** é o plano de assistência à saúde dos servidores públicos do Distrito Federal, gerido pelo Instituto de Assistência à Saúde dos Servidores do Distrito Federal (INAS-DF). O aplicativo oficial do plano oferece aos beneficiários funcionalidades como:
 
-- Personas
-- Histórias de usuário
-- Casos de uso
-- Protótipos de tela
-- Requisitos funcionais e não funcionais
-- Especificação de testes
+- Visualização da rede credenciada  
+- Acesso ao cartão virtual do plano  
+- Consulta ao histórico de atendimentos e procedimentos realizados  
+- Emissão de extratos de utilização do plano  
+- Acesso ao perfil do beneficiário  
+
+Nosso trabalho visa compreender profundamente o funcionamento atual do aplicativo, a partir da elicitação com usuários reais e simulação de cenários, elaborando artefatos como:
+
+- Personas  
+- Histórias de usuário  
+- Casos de uso  
+- Protótipos de tela  
+- Requisitos funcionais e não funcionais  
+- Especificação de testes  
 - Documentação colaborativa com uso de **MkDocs**
 
 ---
@@ -26,18 +34,19 @@ O **SINESP Cidadão** é um aplicativo mantido pelo Ministério da Justiça e Se
 Para visualizar e contribuir com a documentação localmente:
 
 ### ⚖️ Requisitos:
-- Python 3.x instalado
+- Python 3.x instalado  
 - `pip` instalado
 
 ### 🔧 Instalação:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Requisitos-de-Software/2025.1-Sinesp.git
-cd 2025.1-Sinesp
+git clone https://github.com/Requisitos-de-Software/2025.1-GDF-Saude.git
+cd 2025.1-GDF-Saude
 
 # Instale as dependências do MkDocs
 pip install mkdocs mkdocs-material
+
 ```
 
 ### 🌐 Rode localmente:
@@ -99,3 +108,10 @@ Acesse em: [http://localhost:8000](http://localhost:8000)
  
 > Engenharia de Software - 2025.1  
 > Professor: André Barros de Sales
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|--------|------|-----------|-----------|-------------|
+| 1.0 | 10/04/2025 | Criação do README |  [Kaleb Macedo](https://github.com/kalebmacedo)  | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
+| 2.0 | 17/04/2025 | Criação do README para o novo app | [Kaleb Macedo](https://github.com/kalebmacedo) | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
