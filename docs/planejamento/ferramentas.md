@@ -6,6 +6,8 @@ Esta página tem como objetivo documentar todas as ferramentas utilizadas pela e
 
 ## Ferramentas Utilizadas
 
+Tabela 1: ferramentas utilizadas
+
 | | Ferramenta | Finalidade |
 |:--:|:--:|:--|
 | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo do GitHub" width="100px"> | GitHub<sup>[1](#ref1)</sup> | Versionamento dos artefatos criados durante o projeto |
@@ -20,7 +22,13 @@ Esta página tem como objetivo documentar todas as ferramentas utilizadas pela e
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/120px-Google_Docs_logo_%282014-2020%29.svg.png" alt="Logo do Google Docs" width="80px"> | Google Docs<sup>[9](#ref9)</sup> | Criação de arquivos de texto para checklists, cronogramas, etc |
 | <img src="../assets/img/monday.png" alt="Logo do Monday" width="100px"> | Monday<sup>[11](#ref11)</sup> | Gerenciamento de projetos e acompanhamento de tarefas |
 | <img src="../assets/img/thispersondoesntexist.png" alt="Logo do This Person Doesn't Exist" width="100px"> | This Person Doesn't Exist<sup>[10](#ref10)</sup> | Criação de personas |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Google_Forms_logo_%282014-2020%29.svg" alt="Logo do Google Forms" width="80px"> | Google Forms<sup>[12](#ref12)</sup> | Criação de formulários para a seleção de cargos do grupo |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/120px-ChatGPT_logo.svg.png" alt="Logo do ChatGPT" width="80px"> | ChatGPT<sup>[13](#ref13)</sup> | Assistente de inteligência artificial para geração de conteúdos dos artefatos e markdown |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg" alt="Logo do DeepSeek" width="100px" height="100px"> | DeepSeek<sup>[14](#ref14)</sup> | Ferramenta de busca avançada para pesquisa de informações e criação conteúdo dos artefatos |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Logo do Telegram" width="100px"> | Telegram<sup>[15](#ref15)</sup> | Canal para comunicação com a monitora atribuída ao grupo |
 
+
+Autor: [Matheus de Alcântara](https://github.com/matheusdealcantara)
 
 ## Referências
 
@@ -46,6 +54,14 @@ Esta página tem como objetivo documentar todas as ferramentas utilizadas pela e
 
 <a id="ref11"></a>[11] MONDAY. Disponível em: <https://monday.com/>. Acesso em: 10 de abril de 2024.
 
+<a id="ref12"></a>[12] GOOGLE FORMS. Disponível em: <https://www.google.com/forms/about/>. Acesso em: 17 de abril de 2024.
+
+<a id="ref13"></a>[13] CHATGPT. Disponível em: <https://openai.com/chatgpt>. Acesso em: 17 de abril de 2024.
+
+<a id="ref14"></a>[14] DEEPSEEK. Disponível em: <https://deepseek.com/>. Acesso em: 17 de abril de 2024.
+
+<a id="ref15"></a>[15] TELEGRAM. Disponível em: <https://telegram.org/>. Acesso em: 17 de abril de 2024.
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -53,3 +69,4 @@ Esta página tem como objetivo documentar todas as ferramentas utilizadas pela e
 | 1.0 | 09/04/2024 | Criação da página de ferramentas | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Kaleb de Souza](https://github.com/kalebmacedo) | 
 | 1.0.1 | 10/04/2024 | Adição de novas ferramentas e correção das imagens | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Kaleb de Souza](https://github.com/kalebmacedo) |
 | 1.0.2 | 12/04/2024 | Adição de novas ferramentas e correção das imagens | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Kaleb de Souza](https://github.com/kalebmacedo) |
+| 1.0.3 | 17/04/2024 | Adição de novas ferramentas com suas imagens | [Matheus de Alcântara](https://github.com/matheusdealcantara) | [Kaleb de Souza](https://github.com/kalebmacedo) |
