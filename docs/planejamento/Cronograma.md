@@ -2,19 +2,23 @@
 
 O cronograma é uma ferramenta fundamental na gestão de projetos, pois permite a organização lógica e temporal das atividades, a definição de prazos realistas, o monitoramento do progresso e o controle das entregas. Sua elaboração contribui diretamente para o uso eficiente dos recursos, a melhoria da comunicação entre os membros da equipe e a identificação antecipada de riscos e desvios, possibilitando ações corretivas e preventivas durante a execução do projeto (KERZNER, 2017).  
 
-Por isso, o documento apresenta o cronograma da disciplina de **Requisitos de Software** do Campus Gama da Universidade de Brasília, elaborado com base nas datas oficiais do [plano de ensino do professor](/docs/planejamento/assets/arquivos_pdf/plano-de-ensino-requisitos.pdf) (disponível em *link*). Destacam-se:  
+Por isso, o documento apresenta o cronograma da disciplina de **Requisitos de Software** do Campus Gama da Universidade de Brasília, elaborado com base nas datas oficiais do [plano de ensino do professor](assets/arquivos_pdf/plano-de-ensino-requisitos.pdf) (disponível em *link*). Destacam-se:  
 
 **Ordenação das entregas**:  
+
    - A *Entrega 6* (testes finais e pós-rastreabilidade) precede a *Entrega 5* (verificação e validação), conforme sequência definida no plano.  
    - A atividade *"Inspeção Grupo +1"* não foi incluída na Entrega 5, pois não consta no plano de ensino.  
 
 **Estrutura do documento**:  
+
    - **Tabela 1**: Resume as datas-chave de todas as entregas.  
    - **Tabelas 2 a 8**: Detalham atividades, prazos, revisões e inspeções de cada etapa.  
 
 **Base técnica**:  
+
    - As tabelas foram criadas inicialmente no **Microsoft Excel** e convertidas para Markdown via **Deepseek**.  
    - O cronograma foi adaptado de modelos executados em projetos anteriores:  
+   
      - [TikTok (2022.1)](https://requisitos-de-software.github.io/2022.1-TikTok/cronograma/)  
      - [Lichess (2022.2)](https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma_realizado/#ponto-de-controle-7)  
      - [Bilheteria Digital (2023.1)](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/#entrega-final).  
