@@ -1,28 +1,52 @@
-# Cronograma Planejado do Projeto
+# Introdução
 
-## Introdução
+O cronograma é uma ferramenta fundamental na gestão de projetos, pois permite a organização lógica e temporal das atividades, a definição de prazos realistas, o monitoramento do progresso e o controle das entregas. Sua elaboração contribui diretamente para o uso eficiente dos recursos, a melhoria da comunicação entre os membros da equipe e a identificação antecipada de riscos e desvios, possibilitando ações corretivas e preventivas durante a execução do projeto (KERZNER, 2017).  
 
-O cronograma é uma ferramenta essencial no planejamento de projetos, pois organiza as atividades ao longo do tempo, define prazos e permite acompanhar o progresso de forma estruturada. Segundo Kerzner (2017), um cronograma bem elaborado contribui para a alocação eficiente de recursos, o controle das entregas e a comunicação entre os envolvidos. Além disso, facilita a identificação de desvios e a aplicação de ajustes ao longo do desenvolvimento do projeto.
+Por isso, o documento apresenta o cronograma da disciplina de **Requisitos de Software** do Campus Gama da Universidade de Brasília, elaborado com base nas datas oficiais do [plano de ensino do professor](/docs/planejamento/assets/arquivos_pdf/plano-de-ensino-requisitos.pdf) (disponível em *link*). Destacam-se:  
 
----
+1. **Ordenação das entregas**:  
+   - A *Entrega 6* (testes finais e pós-rastreabilidade) precede a *Entrega 5* (verificação e validação), conforme sequência definida no plano.  
+   - A atividade *"Inspeção Grupo +1"* não foi incluída na Entrega 5, pois não consta no plano de ensino.  
+
+2. **Estrutura do documento**:  
+   - **Tabela 1**: Resume as datas-chave de todas as entregas.  
+   - **Tabelas 2 a 8**: Detalham atividades, prazos, revisões e inspeções de cada etapa.  
+
+3. **Base técnica**:  
+   - As tabelas foram criadas inicialmente no **Microsoft Excel** e convertidas para Markdown via **Deepseek**.  
+   - O cronograma foi adaptado de modelos executados em projetos anteriores:  
+     - [TikTok (2022.1)](https://requisitos-de-software.github.io/2022.1-TikTok/cronograma/)  
+     - [Lichess (2022.2)](https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma_realizado/#ponto-de-controle-7)  
+     - [Bilheteria Digital (2023.1)](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/#entrega-final).  
+
+Em **18 de abril de 2025**, o documento passou por atualização para maior detalhamento, mantendo intacto o cronograma da *Entrega 1* uma vez que essa entrega já foi concluída.
+
+
+<br>
 
 ## Entregas do Projeto
 
-| Entrega | Descrição | Data Limite |
-|--------|-----------|--------------|
-| Entrega 1 | Planejamento do Projeto (definição da equipe, ferramentas, escopo e cronograma detalhado) | 13/04 |
-| Entrega 2 | Elicitação e Análise de Requisitos (perfil dos usuários, elicitação e priorização dos requisitos) | 27/04 |
-| Entrega 3 | Modelagem de Requisitos (casos de uso, cenários, histórias de usuário, backlog) | 13/05 |
-| Entrega 4 | Desenvolvimento Inicial (prototipação, definição da arquitetura e primeiras implementações) | 27/05 |
-| Entrega 5 | Implementação e Testes (avaliação dos primeiros módulos, refinamento dos requisitos e ajustes necessários) | 25/06 |
-| Entrega 6 | Ajustes Finais e Validação (testes finais, documentação e preparação para entrega final) | 10/06 |
-| Projeto Final | Apresentação e Entrega Final do Projeto | 07/07 |
+<p align="center">Tabela 1 – Datas das Entregas</p>
 
----
+| Entrega       | Descrição                                                      | Data Limite |
+|---------------|----------------------------------------------------------------|-------------|
+| Entrega 1     | Planejamento do Projeto (definição da equipe, ferramentas, rich picture e cronograma) | 13/04       |
+| Entrega 2     | Elicitação e Priorização de Requisitos (perfil, técnicas, priorização)              | 27/04       |
+| Entrega 3     | Modelagem de Requisitos (cenários, léxico, casos de uso, especificação suplementar)  | 13/05       |
+| Entrega 4     | Modelagem Ágil de Requisitos (histórias de usuário, backlogs, NFR framework)         | 27/05       |
+| Entrega 6     | Testes Finais e Pós‑Rastreabilidade (gerência II)                                    | 10/06       |
+| Entrega 5     | Análise de Requisitos: Verificação e Validação                                      | 25/06       |
+| Projeto Final | Apresentação e entrega final do projeto                                           | 07/07       |
 
-## Cronograma da Entrega 1 – Planejamento
+<p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></p>
 
-*(Definição da equipe, ferramentas, escopo e cronograma detalhado)*
+
+<br>
+
+## Cronograma da Entrega 1 – Planejamento  
+
+<p align="center">Tabela 2 – Entrega 1</p>
+
 
 | Título | Autor(es) | Revisor | Início | Prazo | Período de Revisão |
 |--------|-----------|---------|--------|--------|---------------------|
@@ -35,104 +59,173 @@ O cronograma é uma ferramenta essencial no planejamento de projetos, pois organ
 | Rich Picture do projeto | Isaque Camargos, Othavio, Ana Luiza | Kaleb Macedo | 04/04 | 12/04 | 12/04 - 13/04 |
 | Checklist da entrega | Lucas Alves | Isaque Camargos | 04/04 | 12/04 | 12/04 - 13/04 |
 
----
+<p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></p>
 
-## Cronograma da Entrega 2 – Elicitação e Análise de Requisitos
 
-*(Perfil dos usuários, elicitação e priorização dos requisitos)*
+<br>
 
-| Título                              | Autor(es)                          | Revisor                | Início  | Prazo   | Período de Revisão   |
-|-------------------------------------|------------------------------------|------------------------|---------|---------|-----------------------|
-| Definição do perfil dos usuários    | Yzabella Miranda, Kaleb Macedo     | Isaque Camargos        | 14/04   | 23/04   | 24/04 - 25/04         |
-| Seleção das técnicas de elicitação  | Ana Luiza Soares, Lucas Alves      | Othavio Bolzan         | 14/04   | 23/04   | 24/04 - 25/04         |
-| Aplicação das técnicas de elicitação| Matheus de Alcântara, Isaque Camargos | Kaleb Macedo       | 14/04   | 23/04   | 24/04 - 25/04         |
-| Priorização dos requisitos          | Othavio Bolzan, Yzabella Miranda   | Ana Luiza Soares       | 14/04   | 23/04   | 24/04 - 25/04         |
-| Checklist da entrega                | Yzabella Miranda                   | Matheus de Alcântara   | 14/04   | 23/04   | 24/04 - 25/04         |
-| Gravação da apresentação            | Othavio Bolzan, Lucas Alves        | Matheus de Alcântara   | 26/04   | 26/04   | 26/04 - 27/04         |
 
----
+## Cronograma da Entrega 2 - Elicitação e Análise de Requisitos
+
+
+<p align="center">Tabela 3 – Entrega 2</p>
+
+| Título | Autor(es) | Revisor | Data de início | Data do fim | Data para revisão |
+|---|---|---|---|---|---|
+| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Matheus de Alcântara | 22/04/2025 | 18/04/2025 | 18/04/2025 - 19/04/2025 |
+| Criação de personas e perfis de usuário | Isaque Camargos, Yzabella Miranda | Lucas Alves | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Priorização dos requisitos usando MoSCoW e 100 Dólares | Ana Luiza Soares, Othavio Bolzan | Isaque Camargos | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Documento de Brainstorming | Lucas Alves, Kaleb Macedo, Matheus de Alcântara | Ana Luiza Soares | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Introspecção para elicitação de requisitos | Othavio Bolzan, Lucas Alves | Kaleb Macedo | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Elicitação de requisitos: Observação | Matheus de Alcântara, Yzabella Miranda | Othavio Bolzan | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Elicitação de requisitos: Questionário | Lucas Alves, Othavio Bolzan | Yzabella Miranda | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Elicitação de requisitos: Storytelling | Othavio Bolzan, Kaleb Macedo | Lucas Alves | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Elicitação de requisitos: Entrevista | Ana Luiza Soares, Isaque Camargos | Ana Luiza Soares | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Criação da lista de verificação | Kaleb Macedo | Lucas Alves | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Gravação da Apresentação | Isaque Camargos | Ana Luiza Soares | 26/04/2025 | 26/04/2025 | 26/04/2025 |
+| Envio da entrega | Yzabella Miranda | Kaleb Macedo | 27/04/2025 | 27/04/2025 | 27/04/2025 |
+| Gravação da Inspeção Grupo + 1 | Ana Luiza Soares | Othavio Bolzan | 28/04/2025 | 28/04/2025 | 28/04/2025 |
+
+<p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></p>
+
+
+<br>
+
 
 ## Cronograma da Entrega 3 – Modelagem de Requisitos
 
-*(Casos de uso, cenários, histórias de usuário, backlog)*
 
-| Título                          | Autor(es)                                  | Revisor              | Início  | Prazo   | Período de Revisão   |
-|---------------------------------|--------------------------------------------|----------------------|---------|---------|-----------------------|
-| Modelagem de Casos de Uso       | Matheus de Alcântara, Ana Luiza Soares, Lucas Alves | Othavio Bolzan | 28/04   | 09/05   | 10/05 - 11/05         |
-| Elaboração de Cenários          | Isaque Camargos, Yzabella Miranda          | Lucas Alves          | 28/04   | 09/05   | 10/05 - 11/05         |
-| Desenvolvimento do Backlog      | Kaleb Macedo, Othavio Bolzan               | Ana Luiza Soares     | 28/04   | 09/05   | 10/05 - 11/05         |
-| Checklist da entrega            | Ana Luiza Soares                           | Kaleb Macedo         | 28/04   | 09/05   | 10/05 - 11/05         |
-| Gravação da apresentação        | Yzabella Miranda, Isaque Camargos          | Matheus de Alcântara | 12/05   | 12/05   | 12/05 - 13/05         |
+<p align="center">Tabela 4 – Entrega 3</p>
 
----
+| Título | Autor(es) | Revisor | Data de início | Data do fim | Data para revisão |
+|---|---|---|---|---|---|
+| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Kaleb Macedo | 29/04/2025 | 01/05/2025 | 03/05/2025 - 04/05/2025 |
+| Modelagem de Requisitos: Cenários | Ana Luiza Soares, Matheus de Alcântara | Othavio Bolzan | 02/05/2025 | 09/05/2025 | 09/05/2025 - 10/05/2025 |
+| Modelagem de Requisitos: Léxico | Lucas Alves, Matheus de Alcântara | Yzabella Miranda | 02/05/2025 | 09/05/2025 | 09/05/2025 - 10/05/2025 |
+| Modelagem de Requisitos: Casos de Uso | Othavio Bolzan, Yzabella Miranda | Isaque Camargos | 02/05/2025 | 09/05/2025 | 09/05/2025 - 10/05/2025 |
+| Modelagem de Requisitos: Especificação Suplementar | Kaleb Macedo, Lucas Alves | Ana Luiza Soares | 02/05/2025 | 09/05/2025 | 09/05/2025 - 10/05/2025 |
+| Criação da lista de verificação | Isaque Camargos | Yzabella Miranda | 02/05/2025 | 09/05/2025 | 09/05/2025 - 10/05/2025 |
+| Gravação da Apresentação | Kaleb Macedo | Othavio Bolzan | 11/05/2025 | 11/05/2025 | 11/05/2025 - 13/05/2025 |
+| Envio da entrega | Othavio Bolzan | Isaque Camargos | 13/05/2025 | 13/05/2025 | 13/05/2025 |
+| Gravação da Inspeção Grupo + 1 | Yzabella Miranda | Kaleb Macedo | 14/05/2025 | 14/05/2025 | 14/05/2025 |
 
-## Cronograma da Entrega 4 – Desenvolvimento Inicial
-
-*(Prototipação, definição da arquitetura e primeiras implementações)*
-
-| Título                    | Autor(es)                                     | Revisor              | Início  | Prazo   | Período de Revisão   |
-|---------------------------|-----------------------------------------------|----------------------|---------|---------|-----------------------|
-| Protótipo de interface    | Yzabella Miranda, Othavio Bolzan, Matheus de Alcântara | Kaleb Macedo   | 14/05   | 23/05   | 24/05 - 25/05         |
-| Definição da arquitetura  | Isaque Camargos, Ana Luiza Soares, Lucas Alves | Kaleb Macedo        | 14/05   | 23/05   | 24/05 - 25/05         |
-| Implementação inicial     | Lucas Alves, Kaleb Macedo                      | Othavio Bolzan       | 14/05   | 23/05   | 24/05 - 25/05         |
-| Checklist da entrega      | Othavio Bolzan                                | Ana Luiza Soares     | 14/05   | 23/05   | 24/05 - 25/05         |
-| Gravação da apresentação  | Ana Luiza Soares, Isaque Camargos             | Yzabella Miranda     | 26/05   | 26/05   | 26/05 - 27/05         |
+<p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></p>
 
 
----
-
-## Cronograma da Entrega 5 – Implementação e Testes
-
-*(Avaliação dos primeiros módulos, refinamento dos requisitos e ajustes necessários)*
-
-| Título                              | Autor(es)                                   | Revisor              | Início  | Prazo   | Período de Revisão   |
-|-------------------------------------|---------------------------------------------|----------------------|---------|---------|-----------------------|
-| Implementação dos módulos           | Kaleb Macedo, Isaque Camargos, Othavio Bolzan | Ana Luiza Soares   | 28/05   | 21/06   | 22/06 - 23/06         |
-| Testes preliminares 1               | Othavio Bolzan, Ana Luiza Soares             | Matheus de Alcântara | 28/05   | 21/06   | 22/06 - 23/06         |
-| Testes preliminares 2               | Yzabella Miranda, Lucas Alves                | Yzabella Miranda     | 28/05   | 21/06   | 22/06 - 23/06         |
-| Checklist de validação dos requisitos | Matheus de Alcântara, Isaque Camargos       | Lucas Alves          | 28/05   | 21/06   | 22/06 - 23/06         |
-| Checklist da entrega                | Isaque Camargos                              | Othavio Bolzan       | 28/05   | 21/06   | 22/06 - 23/06         |
-| Gravação da apresentação            | Kaleb Macedo, Lucas Alves                    | Yzabella Miranda     | 24/06   | 24/06   | 24/06 - 25/06         |
+<br>
 
 
----
+## Cronograma da Entrega 4 – Modelagem de Requisitos: Ágil
 
-## Cronograma da Entrega 6 – Ajustes Finais e Validação
+<p align="center">Tabela 5 – Entrega 4</p>
 
-*(Testes finais, documentação e preparação para entrega final)*
+| Título | Autor(es) | Revisor | Data de início | Data do fim | Data para revisão |
+|---|---|---|---|---|---|
+| Correções no projeto conforme apontado na apresentação da entrega anterior | Matheus de Alcântara, Othavio Bolzan, Yzabella Miranda, Lucas Alves, Ana Luiza Soares, Kaleb Macedo | Ana Luiza Soares | 15/05/2025 | 17/05/2025 | 17/05/2025 - 18/05/2025 |
+| Modelagem de Requisitos - Ágil: NFR Framework | Lucas Alves, Kaleb Macedo | Isaque Camargos | 19/05/2025 | 24/05/2025 | 24/05/2025 - 25/05/2025 |
+| Modelagem de Requisitos - Ágil: Backlogs | Matheus de Alcântara, Yzabella Miranda | Ana Luiza Soares | 19/05/2025 | 24/05/2025 | 24/05/2025 - 25/05/2025 |
+| Modelagem de Requisitos - Ágil: Histórias de Usuário | Isaque Camargos, Othavio Bolzan, Ana Luiza Soares | Lucas Alves | 19/05/2025 | 24/05/2025 | 24/05/2025 - 25/05/2025 |
+| Criação da lista de verificação | Kaleb Macedo | Yzabella Miranda | 19/05/2025 | 24/05/2025 | 24/05/2025 - 25/05/2025 |
+| Gravação da Apresentação | Othavio Bolzan | Yzabella Miranda | 26/05/2025 | 26/05/2025 | 26/05/2025 |
+| Envio da entrega | Ana Luiza Soares | Isaque Camargos | 27/05/2025 | 27/05/2025 | 27/05/2025 |
+| Gravação da Inspeção Grupo + 1 | Kaleb Macedo | Othavio Bolzan | 28/05/2025 | 28/05/2025 | 28/05/2025 |
 
-| Título                                     | Autor(es)                                     | Revisor              | Início  | Prazo   | Período de Revisão   |
-|--------------------------------------------|-----------------------------------------------|----------------------|---------|---------|-----------------------|
-| Revisão geral do código                    | Matheus de Alcântara, Othavio Bolzan          | Isaque Camargos      | 26/05   | 06/06   | 07/06 - 08/06         |
-| Documentação final                         | Lucas Alves, Ana Luiza Soares, Yzabella Miranda | Kaleb Macedo       | 26/05   | 06/06   | 07/06 - 08/06         |
-| Testes finais                              | Kaleb Macedo, Isaque Camargos                 | Othavio Bolzan       | 26/05   | 06/06   | 07/06 - 08/06         |
-| Participação do cliente/persona na validação | Othavio Bolzan, Ana Luiza Soares             | Yzabella Miranda     | 26/05   | 06/06   | 07/06 - 08/06         |
-| Checklist da entrega                       | Matheus de Alcântara                          | Lucas Alves          | 26/05   | 06/06   | 07/06 - 08/06         |
-| Gravação da apresentação                   | Kaleb Macedo, Yzabella Miranda                | Matheus de Alcântara | 09/06   | 09/06   | 09/06 - 10/06         |
-
-
----
-
-## Cronograma da Entrega Final
-
-*(Apresentação e entrega final do projeto)*
-
-| Título                                 | Autor(es)           | Revisor                          | Início  | Prazo   | Período de Revisão   |
-|----------------------------------------|----------------------|-----------------------------------|---------|---------|-----------------------|
-| Complementos e Revisões do Projeto Final | Todos os integrantes | Isaque Camargos, Yzabella Miranda | 11/06   | 03/07   | 04/07 - 05/07         |
-| Relatório de Revisões e Ajustes        | Todos os integrantes | Kaleb Macedo, Matheus de Alcântara | 11/06   | 03/07   | 04/07 - 05/07         |
-| Checklist da entrega                   | Yzabella Miranda     | Othavio Bolzan                    | 11/06   | 03/07   | 04/07 - 05/07         |
-| Gravação da Apresentação               | Todos os integrantes | Lucas Alves, Ana Luiza Soares     | 06/07   | 06/07   | 06/07 - 07/07         |
+<p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></p>
 
 
----
+<br>
 
-## Referência
 
-KERZNER, Harold. Gerenciamento de Projetos: As melhores práticas. 3. ed. Porto Alegre: Bookman, 2017.
+## Cronograma da Entrega 5 – Verificação e Validação
 
-SALES, André Barros de. *Ambientação - Aula 1, Exemplo de Cronograma*. Aprender 3. Distrito Federal, 2025. Disponível em: [https://aprender3.unb.br/mod/resource/view.php?id=1390833](https://aprender3.unb.br/mod/resource/view.php?id=1390833). Acesso em: 10 abr. 2025.
+<p align="center">Tabela 6 – Entrega 5</p>
 
+| Título | Autor(es) | Revisor | Data de início | Data do fim | Data para revisão |
+|---|---|---|---|---|---|
+| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Isaque Camargos | 12/06/2025 | 14/06/2025 | 14/06/2025 - 15/06/2025 |
+| Verificação do Rich Picture | Ana Luiza Soares | Kaleb Macedo | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação do NFR Framework | Lucas Alves | Othavio Bolzan | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação dos Casos de uso | Ana Luiza Soares | Yzabella Miranda | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação do Brainstorming | Matheus de Alcântara | Lucas Alves | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação do Backlog | Lucas Alves | Ana Luiza Soares | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação do Léxico | Kaleb Macedo | Isaque Camargos | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação das Histórias de usuários | Ana Luiza Soares | Kaleb Macedo | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação das Técnicas de elicitação | Isaque Camargos | Othavio Bolzan | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação da Priorização | Yzabella Miranda | Lucas Alves | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação da Especificação Suplementar | Ana Luiza Soares | Yzabella Miranda | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação dos Cenários | Lucas Alves | Kaleb Macedo | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação da Entrevista | Matheus de Alcântara | Ana Luiza Soares | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação da Perfil de usuário | Yzabella Miranda | Isaque Camargos | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação das Personas | Isaque Camargos | Kaleb Macedo | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Verificação da Introspecção | Ana Luiza Soares | Lucas Alves | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Criação da lista de verificação | Lucas Alvez | Yzabella Miranda | 15/06/2025 | 21/06/2025 | 21/06/2025 - 22/06/2025 |
+| Gravação da Apresentação | Othavio Bolzan | Ana Luiza Soares | 23/06/2025 | 23/06/2025 | 23/06/2025 |
+| Envio da entrega | Matheus de Alcântara | Kaleb Macedo | 25/06/2025 | 25/06/2025 | 25/06/2025 |
+
+
+<p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></p>
+
+
+<br>
+
+
+## Cronograma da Entrega 6 – Pós-Rastreabilidade - Gerência II
+
+<p align="center">Tabela 7 – Entrega 5</p>
+
+| Título | Autor(es) | Revisor | Data de início | Data do fim | Data para revisão |
+|---|---|---|---|---|---|
+| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Isaque Camargos | 29/05/2025 | 31/05/2025 | 31/05/2025 - 01/06/2025 |
+| Pós-rastreabilidade: Backward-form | Isaque Camargos, Yzabella Miranda, Lucas Alves | Kaleb Macedo | 01/06/2025 | 07/06/2025 | 07/06/2025 - 09/06/2025 |
+| Pós-rastreabilidade: Forward-form | Ana Luiza Soares, Othavio Bolzan, Matheus de Alcântara | Isaque Camargos | 01/06/2025 | 07/06/2025 | 07/06/2025 - 09/06/2025 |
+| Matriz de Rastreabilidade | Lucas Alves, Kaleb Macedo, Matheus de Alcântara | Ana Luiza Soares | 01/06/2025 | 07/06/2025 | 07/06/2025 - 09/06/2025 |
+| Criação da lista de verificação | Yzabella Miranda| Othavio Bolzan | 01/06/2025 | 07/06/2025 | 07/06/2025 - 09/06/2025 |
+| Gravação da Apresentação | Matheus de Alcântara | Yzabella Miranda | 09/06/2025 | 09/06/2025 | 09/06/2025 |
+| Envio da entrega | Lucas Alves | Kaleb Macedo | 10/06/2025 | 10/06/2025 | 10/06/2025 |
+| Gravação da Inspeção Grupo + 1 | Othavio Bolzan | Othavio Bolzan | 11/06/2025 | 11/06/2025 | 11/06/2025 |
+
+<p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></p>
+
+
+<br>
+
+
+## Cronograma da Entrega Final – Desenvolvimento e Finalização do Projeto
+
+<p align="center">Tabela 8 – Entrega Final</p>
+
+| Título | Autor(es) | Revisor | Data de início | Data do fim | Data para revisão |
+|---|---|---|---|---|---|
+| Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Lucas Alves | 25/06/2025 | 30/06/2025 | 30/06/2025 - 01/07/2025 |
+| Desenvolvimento do projeto final (correção e complemento) | Isaque Camargos, Yzabella Miranda | Lucas Alves | 01/06/2025 | 07/06/2025 | 07/06/2025 - 09/06/2025 |
+| Criação da lista de verificação | Othavio Bolzan | Ana Luiza Soares | 01/06/2025 | 07/06/2025 | 07/06/2025 - 09/06/2025 |
+| Gravação da Apresentação | Matheus de Alcântara | Ana Luiza Soares | 05/07/2025 | 05/07/2025 | 05/07/2025 |
+| Envio da entrega | Lucas Alves | Kaleb Macedo | 07/07/2025 | 07/07/2025 | 07/07/2025 |
+
+
+<p align="center">Fonte: Autoria de <a href="https://github.com/Ana-Luiza-SC">Ana Luiza Soares</a></p>
+
+
+<br>
+
+# Referência
+
+Cronograma - Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/#entrega-final>. Acesso em: 18 abr. 2025.
+
+Cronograma - Tik Tok. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/cronograma/>. Acesso em: 18 abr. 2025.
+
+Cronograma Realizado - Lichess. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma_realizado/#ponto-de-controle-7>. Acesso em: 18 abr. 2025.
+
+DEEPSEEK. DeepSeek. Disponível em: <https://chat.deepseek.com/>. Acesso em: 18 abr. 2025.
+
+KERZNER, Harold. Project Management: A Systems Approach to Planning, Scheduling, and Controlling. 12. ed. Hoboken: John Wiley & Sons, 2017.
+
+MICROSOFT. Excel. Disponível em: <https://excel.cloud.microsoft/>. Acesso em: 18 abr. 2025.
+
+SALES, André Barros de. Plano de ensino da disciplina Requisitos de Software – 2025/1. Universidade de Brasília – FGA, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf. Acesso em: 18 abr. 2025.
+
+
+<br>
 
 
 ## Histórico de Versões
@@ -142,3 +235,8 @@ SALES, André Barros de. *Ambientação - Aula 1, Exemplo de Cronograma*. Aprend
 | 1.0    | 10/04/2025 | Criação do Cronograma Planejado                 | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
 | 1.1    | 12/04/2025 | Adição da tarefa "cronograma executado"         | [Isaque Camargos](https://github.com/isaqzin)         | [Matheus de Alcântara](https://github.com/matheusdealcantara) |
 | 1.2    | 13/04/2025 | Ajustes de datas conforme regras do projeto e inclusão da tarefa de gravação das apresentações em cada entrega | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) |  [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+| 2.0    | 18/04/2025 | Detalhamento do Cronograma | [Ana Luiza Soares](https://github.com/Ana-Luiza-SC) |  [Matheus de Alcântara](https://github.com/matheusdealcantara) |
+
+‌
+
+‌
