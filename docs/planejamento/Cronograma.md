@@ -79,9 +79,9 @@ Em **18 de abril de 2025**, o documento passou por atualização para maior deta
 | Introspecção para elicitação de requisitos | Othavio Bolzan, Lucas Alves | Kaleb Macedo | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
 | Elicitação de requisitos: Observação | Matheus de Alcântara, Yzabella Miranda | Othavio Bolzan | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
 | Elicitação de requisitos: Questionário | Lucas Alves, Othavio Bolzan | Yzabella Miranda | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
-| Elicitação de requisitos: Storytelling | Othavio Bolzan, Kaleb Macedo | Lucas Alves | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Elicitação de requisitos: Storytelling | Matheus de Alcântara, Kaleb Macedo | Lucas Alves | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
 | Elicitação de requisitos: Entrevista | Ana Luiza Soares, Isaque Camargos | Ana Luiza Soares | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
-| Criação da lista de verificação | Kaleb Macedo, Othavio Bolzan  | Lucas Alves | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Criação da lista de verificação | Kaleb Macedo, Lucas Alves  | Lucas Alves | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
 | Gravação da Apresentação | Isaque Camargos | Ana Luiza Soares | 26/04/2025 | 26/04/2025 | 26/04/2025 |
 | Envio da entrega | Yzabella Miranda | Kaleb Macedo | 27/04/2025 | 27/04/2025 | 27/04/2025 |
 | Gravação da Inspeção Grupo + 1 | Ana Luiza Soares | Othavio Bolzan | 28/04/2025 | 28/04/2025 | 28/04/2025 |
