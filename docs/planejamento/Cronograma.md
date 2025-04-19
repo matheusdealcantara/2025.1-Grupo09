@@ -171,7 +171,7 @@ Em **18 de abril de 2025**, o documento passou por atualização para maior deta
 
 ## Cronograma da Entrega 6 – Pós-Rastreabilidade - Gerência II
 
-<p align="center">Tabela 7 – Entrega 5</p>
+<p align="center">Tabela 7 – Entrega 6</p>
 
 | Título | Autor(es) | Revisor | Data de início | Data do fim | Data para revisão |
 |---|---|---|---|---|---|
