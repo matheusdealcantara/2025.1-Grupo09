@@ -11,27 +11,41 @@ A seleção do Sinesp Cidadão como objeto de estudo foi pautada pelos seguintes
 - Impacto coletivo
 
 ## Termos de uso
-Para assegurar que o projeto fosse conduzido de maneira ética e em conformidade com as normas aplicáveis, o grupo buscou consultar os Termos de Uso do aplicativo Sinesp, a fim de verificar se havia permissão para realizar a análise planejada. Contudo, não localizamos os Termos de Uso em nossas pesquisas, encontrando apenas a [Política de Privacidade do sistema](https://agente.sinesp.gov.br/politica-privacidade/). Após uma análise minuciosa desse documento, constatamos que ele não contém cláusulas específicas que autorizem ou proíbam a utilização do aplicativo para fins acadêmicos, tampouco faz menção à possibilidade ou vedação de práticas como engenharia reversa. Essa ausência de diretrizes claras levantou dúvidas sobre a legitimidade de prosseguir com o estudo sem uma autorização explícita dos responsáveis pelo Sinesp.
 
-Visando esclarecer a questão e garantir a regularidade do trabalho, o grupo optou por entrar em contato diretamente com o suporte do aplicativo. Enviamos um [email](../assets/pdf/termos-de-uso.pdf) detalhando o caráter acadêmico do projeto, explicando nosso interesse em estudar as funcionalidades do Sinesp e solicitando formalmente permissão para realizar a análise, além de esclarecimentos sobre eventuais restrições, como a engenharia reversa. Infelizmente, até o momento, não obtivemos resposta a essa solicitação, o que nos deixou sem uma orientação definitiva por parte dos desenvolvedores do aplicativo.
+Para assegurar que o projeto fosse conduzido de maneira ética e em conformidade com as normas aplicáveis, o grupo buscou consultar os Termos de Uso do aplicativo GDF Saúde, com o objetivo de verificar se havia permissão para realizar a análise planejada. No entanto, durante nossa pesquisa, não localizamos os Termos de Uso de forma acessível. No aplicativo, encontramos apenas a Política de Privacidade e a Política de Segurança, disponíveis em uma das páginas internas do sistema (conforme ilustrado na Figura 1).
 
-Dada a falta de Termos de Uso acessíveis, a ausência de permissões explícitas na Política de Privacidade e a não resposta do suporte, o grupo decidiu adotar uma postura conservadora. Resolvemos restringir o escopo do projeto à elicitação e análise de requisitos ainda não implementados no Sinesp, evitando qualquer abordagem que pudesse implicar engenharia reversa ou acesso direto à estrutura interna do aplicativo. Essa decisão reforça nosso compromisso com a conduta ética e legal, priorizando o respeito às políticas do Sinesp e aos princípios acadêmicos.
+<p align="center"><strong>Figura 1: Página interna do GDF Saúde</strong></p>
+
+<p align="center">
+  <img src="../assets/img/paginaTermos.png" alt="Página interna GDF Saúde" width="600"/>
+</p>
+<p align="center"><em>Fonte: Aplicativo do GDF Saúde.</em></p>
+
+Após uma análise cuidadosa desses documentos, constatamos que tanto a [Política de Privacidade](https://agente.sinesp.gov.br/politica-privacidade/) quanto o documento da [Política de Segurança](../assets/pdf/politicaSegurança.pdf) do GDF Saúde se concentram no tratamento de dados pessoais dos usuários, abordando aspectos como segurança da informação, direitos dos titulares e princípios de proteção de dados, conforme previsto pela Lei Geral de Proteção de Dados (LGPD). Contudo, não identificamos nenhuma cláusula específica que trate da autorização ou proibição do uso do aplicativo para fins acadêmicos, nem menções diretas à prática de engenharia reversa ou outras formas de análise técnica da aplicação.
+
+Diante da ausência de diretrizes claras sobre esse tipo de uso, surgiram dúvidas quanto à legitimidade de prosseguir com o estudo sem uma autorização explícita por parte dos responsáveis pelo GDF Saúde. Buscando maior clareza e respaldo institucional, o grupo optou por tentar contato direto com os canais oficiais de suporte do sistema através de um [email](../assets/pdf/termos-de-uso.pdf), com o intuito de apresentar o caráter acadêmico do projeto e solicitar informações mais precisas sobre possíveis restrições.
+
+Como ainda não obtivemos retorno, e considerando a falta de Termos de Uso acessíveis e de orientações específicas nos documentos disponíveis, o grupo decidiu adotar uma abordagem cautelosa. Optamos por limitar o escopo do trabalho à análise externa e à elicitação de requisitos observáveis no funcionamento geral do aplicativo, sem realizar qualquer prática que envolva engenharia reversa ou acesso à estrutura interna da aplicação. Com isso, reafirmamos nosso compromisso com uma postura ética e responsável, respeitando os limites legais e institucionais, bem como os princípios que regem a pesquisa acadêmica.
 
 ## Rich Picture
 O RichPicture é uma técnica visual colaborativa utilizada para explorar e comunicar complexidades de sistemas, traduzindo conceitos abstratos em uma representação gráfica acessível. Sua abordagem informal e flexível permite uma compreensão holística do sistema, facilitando a identificação de gargalos, requisitos e oportunidades de melhoria, sem se prender a formalismos excessivos.
 
 ### Ferramentas
-O [Figma](https://www.figma.com/community) foi utilizado para a criação do rich picture que pode ser visualizado na figura 1.
+O [Figma](https://www.figma.com/community) foi utilizado para a criação do rich picture que pode ser visualizado na figura 2.
+
+<p align="center"><strong>Figura 2: Rich Picture do Sinesp Cidadão</strong></p>
 
 <p align="center">
   <img src="../assets/img/richPicture.png" alt="Rich Picture do Sinesp Cidadão" width="600"/>
 </p>
-<p align="center"><strong>Figura 1: Rich Picture do Sinesp Cidadão</strong><br><em>Fonte: Autoria do grupo.</em></p>
+<p align="center"><em>Fonte: Autoria do grupo.</em></p>
 
+
+<p align="center"><strong>Figura 3: Legenda do Rich Picture</strong></p>
 <p align="center">
   <img src="../assets/img/legenda-richPicture.png" alt="Legenda do Rich Picture" width="400"/>
 </p>
-<p align="center"><strong>Figura 2: Legenda do Rich Picture</strong><br><em>Fonte: Autoria do grupo.</em></p>
+<p align="center"><em>Fonte: Autoria do grupo.</em></p>
 
 ## Histórico de Versões
 
