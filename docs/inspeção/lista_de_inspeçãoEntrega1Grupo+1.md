@@ -13,7 +13,7 @@ Documento baseado na lista de verificação feita para a entrega 1 do Grupo + 1.
 
 ---
 
-## Lista de Inspeção – Entregas do Projeto (tabela 1)
+## Lista de Inspeção – Entregas do Projeto - (tabela 1)
 
 | ID | Item                                                                                                  | Autor    | Revisor  | Status               | Referência                    |
 |----|-------------------------------------------------------------------------------------------------------|----------|----------|----------------------| ----------------------|
@@ -32,7 +32,7 @@ Documento baseado na lista de verificação feita para a entrega 1 do Grupo + 1.
 Autor: [Lucas Alves](https://github.com/LucasAlves71)
 ---
 
-## Lista de Inspeção de Itens Técnicos e Documentais (tabela 2)
+## Lista de Inspeção de Itens Técnicos e Documentais - (tabela 2)
 
 | ID | Item                                                                                                  | Autor    | Revisor  | Status               | Referência                    |
 |----|-------------------------------------------------------------------------------------------------------|----------|----------|----------------------|----------------------|
@@ -48,7 +48,7 @@ Autor: [Lucas Alves](https://github.com/LucasAlves71)
 
 ---
 
-## Lista de Inspeção de Conteúdo da Disciplina (tabela 3)
+## Lista de Inspeção de Conteúdo da Disciplina - (tabela 3)
 
 | ID | Item                                                                                                  | Autor    | Revisor  | Status               | Referência                    |
 |----|-------------------------------------------------------------------------------------------------------|----------|----------|----------------------|---------------------------------------|
