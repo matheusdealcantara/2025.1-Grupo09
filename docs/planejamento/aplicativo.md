@@ -33,19 +33,19 @@ O RichPicture é uma técnica visual colaborativa utilizada para explorar e comu
 ### Ferramentas
 O [Figma](https://www.figma.com/community) foi utilizado para a criação do rich picture que pode ser visualizado na figura 2.
 
-<p align="center"><strong>Figura 2: Rich Picture do Sinesp Cidadão</strong></p>
+<p align="center"><strong>Figura 2: Rich Picture do GDF Saúde</strong></p>
 
 <p align="center">
-  <img src="../assets/img/richPicture.png" alt="Rich Picture do Sinesp Cidadão" width="600"/>
+  <img src="../assets/rich-picture/Novo-App/RichPicture-novoapp.jpeg" alt="Rich Picture do Sinesp Cidadão" width="600"/>
 </p>
-<p align="center"><em>Fonte: Autoria do grupo.</em></p>
+<p align="center"><em>Fonte: Autores.</em></p>
 
 
-<p align="center"><strong>Figura 3: Legenda do Rich Picture</strong></p>
+<p align="center"><strong>Figura 3: Legenda do GDF Saúde</strong></p>
 <p align="center">
-  <img src="../assets/img/legenda-richPicture.png" alt="Legenda do Rich Picture" width="400"/>
+  <img src="../assets/rich-picture/Novo-App/Legenda-novoapp.jpeg" alt="Legenda do Rich Picture" width="400"/>
 </p>
-<p align="center"><em>Fonte: Autoria do grupo.</em></p>
+<p align="center"><em>Fonte: Autores.</em></p>
 
 ## Histórico de Versões
 
@@ -54,3 +54,4 @@ O [Figma](https://www.figma.com/community) foi utilizado para a criação do ric
 | 1.0 | 10/04/2025 | Criação da página de aplicativo escolhido | [Yzabella Miranda](https://github.com/redjsun) | [Ana Luiza](https://github.com/Ana-Luiza-SC)| 
 | 1.1 | 10/04/2025 | Adição do termos de Uso | [Othavio Araujo Bolzan]((https://github.com/bolzanMGB))  | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
 | 1.2    | 13/04/2025 | Alteração na formatação da foto        | [Ana Luiza](https://github.com/Ana-Luiza-SC) | [Isaque Camargos](https://github.com/isaqzin) |
+| 1.3    | 20/04/2025 | Atualização do aplicativo | [Othavio Araujo Bolzan]((https://github.com/bolzanMGB)), [Yzabella Miranda](https://github.com/redjsun)| [Ana Luiza](https://github.com/Ana-Luiza-SC) |
