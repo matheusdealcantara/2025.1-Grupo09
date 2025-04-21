@@ -1,13 +1,13 @@
 # Aplicativo escolhido
 
 ## Introdução
-Durante a etapa inicial de seleção, o grupo avaliou potenciais aplicativos, ponderando critérios técnicos e impacto social. A princípio, o aplicativo CNH (Carteira Nacional de Habilitação Digital) foi considerado uma opção promissora, porém, ele foi selecionado por outro grupo antes de nossa definição final, o que demandou a exploração de alternativas. Opções como o Telegram foram analisadas, mas sua extensa gama de funcionalidades tornou inviável uma análise focada. O Sinesp Cidadão surgiu como a escolha definitiva, não apenas por seu papel estratégico na segurança pública, mas também por sua estrutura técnica multifacetada e sistematizada, que viabiliza uma investigação aprofundada de requisitos de software sem comprometer a clareza metodológica.
+Durante a etapa inicial de seleção, o grupo avaliou potenciais aplicativos, ponderando critérios técnicos e impacto social. A princípio, o aplicativo CNH (Carteira Nacional de Habilitação Digital) foi considerado uma opção promissora, porém, ele foi selecionado por outro grupo antes de nossa definição final, o que demandou a exploração de alternativas. Opções como o Telegram foram analisadas, mas sua extensa gama de funcionalidades tornou inviável uma análise focada. O Sinesp Cidadão surgiu como a escolha definitiva, mas posteriormente, também foi desconsiderado. Diante disso, optamos definitivamente pelo aplicativo GDF Saúde, que atende aos critérios necessários para uma investigação técnica detalhada, além de apresentar relevância social no contexto de serviços públicos de saúde.
 
 ## Critérios da escolha
 A seleção do Sinesp Cidadão como objeto de estudo foi pautada pelos seguintes critérios estratégicos:
-- Aplicativo ainda não trabalhado na disciplina de Requisitos de Software
+- Aplicativo ainda não trabalhado na disciplina anteriormente
 - Complexidade média com requisitos diversificados
-- Aproximação com ações de segurança
+- Relevância para serviços públicos de saúde
 - Impacto coletivo
 
 ## Termos de uso
