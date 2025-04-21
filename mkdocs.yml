@@ -40,15 +40,15 @@ nav:
 
   - Verificação:
       - Grupo:
-          - Entrega 1: verificacao/lista_de_VerificaçãoEntrega1.md
+          - Entrega 1: verificacao/lista_de_VerificacaoEntrega1.md
       - Grupo +1:
-          - Entrega 1: verificacao/lista_de_VerificaçãoEntrega1.md
+          - Entrega 1: verificacao/lista_de_VerificacaoEntrega1.md
 
   - Inspeção:
       - Grupo:
-          - Entrega 1: inspecao/lista_de_inspeçãoEntrega1.md
+          - Entrega 1: inspecao/lista_de_inspecaoEntrega1.md
       - Grupo +1:
-          - Entrega 1: inspecao/lista_de_inspeçãoEntrega1Grupo+1.md
+          - Entrega 1: inspecao/lista_de_inspecaoEntrega1Grupo+1.md
           
 extra_css:
   - stylesheets/extra.css
