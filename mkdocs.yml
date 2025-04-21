@@ -38,11 +38,11 @@ nav:
   - Pré-rastreabilidade:
       - Rich Picture: pre-rastreabilidade/rich_picture.md
 
-  - Verificação:
+  - Inspeção:
       - Grupo:
-          - Entrega 1: planejamento/checklist_entrega.md
+          - Entrega 1: inspeção/checklist_entrega.md
       - Grupo +1:
-          - Entrega 1: planejamento/checklistGrupo+1.md
+          - Entrega 1: inspeção/checklistGrupo+1.md
           
 extra_css:
   - stylesheets/extra.css
