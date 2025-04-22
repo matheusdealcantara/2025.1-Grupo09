@@ -18,11 +18,6 @@ Para a escolha do **Scrum Master** e do **Product Owner (PO)**, foi utilizado um
   - Facilitar as reuniões e o fluxo de trabalho.
   - Garantir que a equipe siga os princípios do Scrum.
 
-### Product Owner (PO)
-- **Nome:** Isaque Camargos Nascimento
-- **Responsabilidades:**
-  - Representar o cliente e suas necessidades.
-  - Organizar e priorizar o backlog do produto.
 
 ### Responsáveis por Tarefas Específicas
 - **Organização do Repositório:**
@@ -70,3 +65,4 @@ Para a escolha do **Scrum Master** e do **Product Owner (PO)**, foi utilizado um
 | Versão | Data       | Descrição            | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 09/04/2025 | Criação do documento | [Lucas Alves](https://github.com/LucasAlves71) | [Yzabella Miranda](https://github.com/redjsun) |
+| `1.1`  | 21/04/2025 | Exclusão do product owner |  [Isaque Camargos](https://github.com/isaqzin) | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
