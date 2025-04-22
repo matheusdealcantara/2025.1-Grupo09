@@ -77,13 +77,11 @@ Em **18 de abril de 2025**, o documento passou por atualização para maior deta
 | Título | Autor(es) | Revisor | Data de início | Data do fim | Data para revisão |
 |---|---|---|---|---|---|
 | Correções no projeto conforme apontado na apresentação anterior | Ana Luiza Soares, Matheus de Alcântara, Kaleb Macedo, Othavio Bolzan, Yzabella Miranda, Lucas Alves | Matheus de Alcântara | 22/04/2025 | 18/04/2025 | 18/04/2025 - 19/04/2025 |
-| Criação de personas e perfis de usuário | Isaque Camargos, Yzabella Miranda | Lucas Alves | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
-| Priorização dos requisitos usando MoSCoW e 100 Dólares | Ana Luiza Soares, Othavio Bolzan | Isaque Camargos | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
-| Documento de Brainstorming | Lucas Alves, Kaleb Macedo, Matheus de Alcântara | Ana Luiza Soares | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Criação de personas e perfis de usuário | Isaque Camargos, Yzabella Miranda, Matheus de Alcântara | Lucas Alves | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Priorização dos requisitos: "First Thing First" e "Quality Function Deployment" | Ana Luiza Soares, Othavio Bolzan, Matheus de Alcântara | Isaque Camargos | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
 | Elicitação de requisitos: Introspecção | Othavio Bolzan, Lucas Alves | Kaleb Macedo | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
 | Elicitação de requisitos: Observação | Matheus de Alcântara, Yzabella Miranda | Othavio Bolzan | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
-| Elicitação de requisitos: Questionário | Lucas Alves, Othavio Bolzan | Yzabella Miranda | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
-| Elicitação de requisitos: Storytelling | Matheus de Alcântara, Kaleb Macedo | Lucas Alves | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
+| Elicitação de requisitos: Questionário | Lucas Alves, Othavio Bolzan, Kaleb Macedo | Yzabella Miranda | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
 | Elicitação de requisitos: Entrevista | Ana Luiza Soares, Isaque Camargos | Ana Luiza Soares | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
 | Criação da lista de verificação | Kaleb Macedo, Lucas Alves  | Ana Luiza Soares | 19/04/2025 | 24/04/2025 | 24/04/2025 - 25/04/2025 |
 | Gravação da inspeção do grupo | Isaque Camargos, Ana Luiza Soares  | Matheus de Alcântara | 26/04/2025 | 26/04/2025 | 26/04/2025 |
