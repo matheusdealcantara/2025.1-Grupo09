@@ -17,8 +17,9 @@ Para assegurar que o projeto fosse conduzido de maneira ética e em conformidade
 
 <p align="center"><strong>Figura 1: Página interna do GDF Saúde</strong></p>
 
+
 <p align="center">
-  <img src="../planejamento/assets/img/paginaTermos.png" alt="Página interna GDF Saúde" width="600"/>
+  <img src="../assets/img/paginatermos.png" alt="Heatmap de disponibilidade da equipe" width="600">
 </p>
 <p align="center"><em>Fonte: Aplicativo do GDF Saúde.</em></p>
 
@@ -37,14 +38,14 @@ O [Figma](https://www.figma.com/community) foi utilizado para a criação do ric
 <p align="center"><strong>Figura 2: Rich Picture do GDF Saúde</strong></p>
 
 <p align="center">
-  <img src="../assets/rich-picture/Novo-App/RichPicture-novoapp.jpeg" alt="Rich Picture do Sinesp Cidadão" width="600"/>
+  <img src="../../assets/rich-picture/Novo-App/RichPicture-novoapp.jpeg" alt="Rich Picture do GDF Saúde" width="600"/>
 </p>
 <p align="center"><em>Fonte: Autores.</em></p>
 
 
 <p align="center"><strong>Figura 3: Legenda do GDF Saúde</strong></p>
 <p align="center">
-  <img src="../assets/rich-picture/Novo-App/Legenda-novoapp.jpeg" alt="Legenda do Rich Picture" width="400"/>
+  <img src="../../assets/rich-picture/Novo-App/Legenda-novoapp.jpeg" alt="Legenda do Rich Picture" width="400"/>
 </p>
 <p align="center"><em>Fonte: Autores.</em></p>
 
