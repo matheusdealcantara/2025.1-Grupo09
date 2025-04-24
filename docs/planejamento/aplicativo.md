@@ -57,3 +57,4 @@ O [Figma](https://www.figma.com/community) foi utilizado para a criação do ric
 | 1.1 | 10/04/2025 | Adição do termos de Uso | [Othavio Araujo Bolzan](https://github.com/bolzanMGB)  | [Ana Luiza](https://github.com/Ana-Luiza-SC) |
 | 1.2 | 13/04/2025 | Alteração na formatação da foto| [Ana Luiza](https://github.com/Ana-Luiza-SC) | [Isaque Camargos](https://github.com/isaqzin) |
 | 1.3 | 20/04/2025 | Atualização do aplicativo | [Othavio Araujo Bolzan](https://github.com/bolzanMGB), [Yzabella Miranda](https://github.com/redjsun)| [Ana Luiza](https://github.com/Ana-Luiza-SC) |
+| 1.4 | 20/04/2025 | Correção bug fotos |  [Isaque Camargos](https://github.com/isaqzin)  | [Kaleb Macedo](https://github.com/kalebmacedo) |
